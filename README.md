@@ -1,1 +1,1 @@
-# AC-STYLE-checkpoint-1-
+AC-STYLE-checkpoint-1
