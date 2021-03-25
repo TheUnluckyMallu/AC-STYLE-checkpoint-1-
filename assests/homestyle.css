@@ -76,12 +76,13 @@ h2{
 
 
 /*------------E_2------------*/
-.box-group{border: solid 1px; display: inline-block;
-    font-size: 0px;}
-.b{ margin: 3px;
+.box-group{border: solid 2px; display: inline-block;
+    font-size: 0px;width: 660px;}
+.b{ margin: 5px;
     display: inline-block;
-    height: 60px; width: 120px;
+    height: 180px; 
+    width: 200px;
     background-color: lightblue;
 }
 
-.b1{border: solid 1px;}
+.b1{border: solid 2px; display:inline-block;}
